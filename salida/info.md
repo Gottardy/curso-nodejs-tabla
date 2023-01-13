@@ -1,0 +1,1 @@
+# Directorio donde se almacenara la salida de las aplicacion
